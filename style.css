@@ -79,16 +79,6 @@ body * {
 	height: 51px;
 }
 
-/* .button__rostov:hover {
-	background-color: #e3b873;
-	color: #ffffff;
-} */
-
-/* .button__none:hover {
-	background-color: #e3b873;
-	color: #ffffff;
-} */
-
 a:active {
 	color: #e3b873;
 	transition: all 0.3s;
@@ -98,13 +88,6 @@ a:hover {
 	color: #e3b873;
 	transition: all 0.3s;
 }
-
-/* button:hover {
-	background: #cd963d;
-	color: #363636;
-	cursor: pointer;
-	transition: all 0.5s;
-} */
 
 .rostov {
 	background-image: url(image/rostov.jpg);
@@ -185,11 +168,6 @@ a:hover {
 	color: rgba(255, 255, 255, 0.3);
 	text-decoration: none;
 }
-
-/* .variant__item a:hover {
-	color: #e3b873;
-	text-decoration: underline;
-} */
 
 .variant__item .active {
 	color: #e3b873;
@@ -438,13 +416,6 @@ a:hover {
 	height: 51px;
 }
 
-/* .button__form:hover {
-	background: #cd963d;
-	color: #363636;
-	cursor: pointer;
-	transition: all 0.5s;
-} */
-
 #Agree {
 	display: none;
 }
@@ -681,13 +652,6 @@ input:checked + .text__check:before {
 	line-height: 21px;
 }
 
-/* .button__work:hover {
-	background: #cd963d;
-	color: #363636;
-	cursor: pointer;
-	transition: all 0.5s;
-} */
-
 .save {
 	display: flex;
 	justify-content: flex-end;
@@ -771,11 +735,6 @@ input:checked + .text__check:before {
 	color: #ffffff;
 	text-decoration: none;
 }
-
-/* .text-fantasy__item:hover {
-	color: #e3b873;
-	text-decoration: underline;
-} */
 
 .li {
 	margin-bottom: 25px;
