@@ -3,7 +3,17 @@
         max-width: 340px;
     }
     
-    .navigation {
+    .button__nav,
+    .variant,
+    .left__right,
+    .navigation,
+    .works,
+    .save,
+    .text__fantasy,
+    .fantasies__overlay,
+    .clients__out-mobil,
+    .clients__overlay,
+    .footer {
         display: none;
     }
 
@@ -54,22 +64,10 @@
         padding: 0;
     }
 
-    .button__nav {
-        display: none;
-    }
-
     .completed {
         padding-top: 36px;
         padding-bottom: 890px;
         margin-bottom: 58px;
-    }
-
-    .variant {
-        display: none;
-    }
-
-    .left__right {
-        display: none;
     }
 
     .flat {
@@ -257,15 +255,7 @@
         height: 40px;
         margin-left: 0;
     }
-
-    .works {
-        display: none;
-    }
-
-    .save {
-        display: none;
-    }
-
+    
     .fantasies {
         padding-top: 0;
         background-image: none;
@@ -290,10 +280,6 @@
         padding: 0 15px;
     }
 
-    .text__fantasy {
-        display: none;
-    }
-
     #american_clock {
         display: none;
     }
@@ -310,22 +296,10 @@
         display: none;
     }
 
-    .fantasies__overlay {
-        display: none;
-    }
-
     .our__clients {
         padding-top: 173px;
         padding-bottom: 0; 
         background-color: black;
-    }
-
-    .clients__out-mobil {
-        display: none;
-    }
-
-    .clients__overlay {
-        display: none;
     }
 
     .form__client {
@@ -393,9 +367,5 @@
         width: 340px;
         height: 255px;
         margin-bottom: 42px;
-    }
-
-    .footer {
-        display: none;
     }
   }
