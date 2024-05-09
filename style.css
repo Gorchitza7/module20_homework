@@ -69,7 +69,8 @@ body * {
 	cursor: pointer;
 }
 
-.button__rostov {
+.button__rostov,
+.button__none {
 	border: 1px solid #ffffff;
 	background: none;
 	padding: 19px 23px 20px 22px;
@@ -82,15 +83,6 @@ body * {
 	background-color: #e3b873;
 	color: #ffffff;
 } */
-
-.button__none {
-	border: 1px solid #ffffff;
-	background: none;
-	padding: 19px 23px 20px 22px;
-	box-shadow: none;
-	width: 207px;
-	height: 51px;
-}
 
 /* .button__none:hover {
 	background-color: #e3b873;
